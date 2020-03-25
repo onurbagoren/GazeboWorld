@@ -220,6 +220,7 @@ CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/i
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/AffineException.hh
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Angle.hh
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Box.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Color.hh
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Filter.hh
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Frustum.hh
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Helpers.hh
@@ -250,16 +251,16 @@ CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/i
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Vector3Stats.hh
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/Vector4.hh
 CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/ignition/math2/ignition/math/config.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/Assert.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/Console.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/Converter.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/Element.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/Exception.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/Param.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/SDFImpl.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/Types.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/parser.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/sdf.hh
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/sdf_config.h
-CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.3/sdf/system_util.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/Assert.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/Console.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/Converter.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/Element.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/Exception.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/Param.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/SDFImpl.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/Types.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/parser.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/sdf.hh
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/sdf_config.h
+CMakeFiles/hello.dir/script/welcome_message.cpp.o: /usr/include/sdformat-4.4/sdf/system_util.hh
 

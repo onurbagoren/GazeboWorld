@@ -1,4 +1,4 @@
-# Install script for directory: /home/robond/Project1
+# Install script for directory: /home/robond/GazeboWorld
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/robond/Project1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/robond/GazeboWorld/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
